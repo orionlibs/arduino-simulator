@@ -1,2 +1,2 @@
-# project-name
-A description
+# Arduino Simulator
+Java-based Arduino Simulator
